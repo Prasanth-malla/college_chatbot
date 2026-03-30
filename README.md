@@ -17,8 +17,11 @@ Built with **Python**, **TF‑IDF**, and **Logistic Regression**, and deployed u
 
 ## How to Run
 1. Clone the repo  
+   ```bash
    git clone https://github.com/Prasanth-malla/college_chatbot.git
 2. Install dependencies
+   ```bash
    pip install -r requirements.txt
 3. Run the app
+   ```bash
    streamlit run app.py
