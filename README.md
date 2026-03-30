@@ -1,0 +1,1 @@
+AI-Driven Smart College Assistance Chatbot – An NLP-based chatbot built with Python, TF-IDF, and Logistic Regression that provides real-time responses to college-related queries via text and voice using Streamlit.
